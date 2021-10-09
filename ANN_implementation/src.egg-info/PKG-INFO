@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for ANN Implementation
+Home-page: https://github.com/c17hawke/ANN-implementation-DLCVNLP-demo
+Author: c17hawke
+Author-email: sunny.c17hawke@gmail.com
+License: UNKNOWN
+Description: # ANN-implementation-DLCVNLP-demo
+        ANN-implementation-DLCVNLP-demo
+        
+        
+        ## important commands ---------------
+        
+        ### creating envs -
+        
+        ```bash
+        conda create --prefix ./envs python=3.7 -y
+        ```
+        
+        ### activate env
+        
+        ```bash
+        conda activate ./envs
+        ```
+        
+        ## Reference -
+        
+        * [Conda env commands](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#)
+Platform: UNKNOWN
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
